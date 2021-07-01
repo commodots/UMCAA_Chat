@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "472369548231",
+    "firebase_url": "https://umcaa-connect-default-rtdb.firebaseio.com",
+    "project_id": "umcaa-connect",
+    "storage_bucket": "umcaa-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472369548231:android:d2a50588489c5cd1e727e2",
+        "android_client_info": {
+          "package_name": "com.commodots.umcaaconnecta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472369548231-s45t269jv5nk8hl64vlh3p5tafiie7u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.commodots.umcaaconnecta",
+            "certificate_hash": "7e768e8fa7759e8bd7fbcaab42dc7cc8ae5072df"
+          }
+        },
+        {
+          "client_id": "472369548231-v7qo15ccpdgr376klasaq8fu474dm9jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.commodots.umcaaconnecta",
+            "certificate_hash": "137e5efcec3063958f6b47853e5690c87fecc2c7"
+          }
+        },
+        {
+          "client_id": "472369548231-qvu93hdt7udngk9c4gj8dp5g1764non9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ky91k44qeIHOdFDEICmgTtLUGwK4d1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472369548231-qvu93hdt7udngk9c4gj8dp5g1764non9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

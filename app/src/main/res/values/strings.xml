@@ -1,0 +1,254 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="button_allow" tools:keep="@string/button_allow">Allow</string>
+    <string name="button_deny" tools:keep="@string/button_deny">Deny</string>
+
+
+    <string name="media">Media</string>
+    <string name="docs">Docs</string>
+    <string name="view_all">View all</string>
+    <string name="invite_friends">Invite friends…</string>
+    <string name="message_otp">We will send you a OTP message. Standard rates may apply.</string>
+    <string name="content_privacy">Hello world. this is a text. superman, batman, iron man, bat man, wonder women.</string>
+    <string name="hint_phone">Your phone number</string>
+    <string name="confirm">Confirm</string>
+    <string name="resend">Resend?</string>
+    <string name="change_number">Change number?</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="otp_sending">Sending otp</string>
+    <string name="otp_verifying">Verifying otp</string>
+    <string name="otp_verifying_msg">Verifying otp…</string>
+    <string name="logging_in">Logging you in!</string>
+    <string name="error_create_user">Something went wrong, unable to create user.</string>
+    <string name="verification_cancel_title">Cancel verification</string>
+    <string name="verification_cancel_message">Verification is in progress! do you want to cancel and go back?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="validation_req_country">Select country code!</string>
+    <string name="validation_req_phone">Enter phone number!</string>
+    <string name="validation_req_phone_valid">Enter a valid phone number</string>
+    <string name="confirm_phone">One time password will be sent on this number! Continue with this number?</string>
+    <string name="edit">Edit</string>
+    <string name="hint_search">Search</string>
+    <string name="tab_title_chat">Chats</string>
+    <string name="tab_title_group">Groups</string>
+    <string name="tab_title_call">Calls</string>
+    <string name="invitation_share_title">Share using..</string>
+    <string name="delete_chat_title">Delete chat</string>
+    <string name="delete_chat_message">Continue deleting selected chats?</string>
+    <string name="create_group">Create group</string>
+    <string name="done">DONE</string>
+    <string name="hint_group_name">Group name</string>
+    <string name="group_info">Group info</string>
+    <string name="short_description_of_group">Short description of group!</string>
+    <string name="participants_0">Participants (0)</string>
+    <string name="add_more">+ Add more</string>
+    <string name="get_image_title">Get image from</string>
+    <string name="get_image_camera">Camera</string>
+    <string name="get_image_gallery">Gallery</string>
+    <string name="validation_req_participant">No participants selected</string>
+    <string name="validation_req_name">User name can\'t be empty</string>
+    <string name="validation_req_description">Give this group a short description</string>
+    <string name="err_upload_image">Unable to upload image.</string>
+    <string name="group_created">Group created</string>
+    <string name="error_request">Unable to process request at this time</string>
+    <string name="back">Back</string>
+    <string name="your_name">your name</string>
+    <string name="share_app">Share app</string>
+    <string name="rate_app">Rate app</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="contact_us">Contact us</string>
+    <string name="logout">Logout</string>
+    <string name="logout_title">Logout</string>
+    <string name="logout_message">Are you sure you want to logout?</string>
+    <string name="validation_req_username">Name cannot be empty</string>
+    <string name="validation_req_status">Status cannot be empty</string>
+    <string name="updated">Updated!</string>
+    <string name="image_updated">Profile image updated</string>
+    <string name="type_your_message">Type your message</string>
+    <string name="image">Image</string>
+    <string name="audio">Audio</string>
+    <string name="video">Video</string>
+    <string name="contact">Contact</string>
+    <string name="location">Location</string>
+    <string name="document">Document</string>
+    <string name="recording_cancelled">Recording cancelled</string>
+    <string name="recodring">Recording…</string>
+    <string name="message_copied">Messages copied</string>
+    <string name="delete_msg_title">Delete messages</string>
+    <string name="delete_msg_message">Continue deleting selected messages?</string>
+    <string name="removed_from_group">You were removed from this group</string>
+    <string name="just_moment">Just a moment..</string>
+    <string name="voice_calling">Voice Calling</string>
+    <string name="video_calling">Voice Calling</string>
+    <string name="video_calling_in">Incoming video call</string>
+    <string name="voice_calling_in">Incoming voice call</string>
+    <string name="permission_mic">This application needs permission to use your microphone to function properly.</string>
+    <string name="gave_miss">Gave you a miss call</string>
+    <string name="err_upload_img">Unable to upload image.</string>
+    <string name="phone_number">Phone number</string>
+    <string name="status">Status</string>
+    <string name="mute_notifications">Mute notifications</string>
+    <string name="no_members">No new members to add</string>
+    <string name="add_member_title">Add member(s)</string>
+    <string name="member_added">Members added</string>
+    <string name="dial_permission">To dial number automatically for you we need this permission</string>
+    <string name="remove_user_title">Remove user</string>
+    <string name="member_removed">Member removed</string>
+    <string name="invite_friends_title">Invite friends</string>
+    <string name="invite_friends_message">Following contacts are missing out</string>
+    <string name="invite_short">invite</string>
+    <string name="name">Name</string>
+    <string name="file_not_found">File not found!\nFile is either Moved, Deleted or Renamed.</string>
+    <string name="empty_text_chat_list">Your chats appear here\nStart chatting by selecting a user.</string>
+    <string name="empty_group_chat_list">Your group chats appear here\nStart chatting by selecting a group.</string>
+    <string name="empty_log_call_list">Your call logs appear here\nStart by selecting a user.</string>
+    <string name="no_groups">You have no groups\nCreate a new group to begin with.</string>
+    <string name="empty_contact_list_for_group">You don\'t have sufficient friends\nto be in a group</string>
+    <string name="otp_sending_msg">One time password is being send to: \n %s</string>
+    <string name="error_detail">Something went wrong%s</string>
+    <string name="otp_sent">Please type the verification code sent to %s \n</string>
+    <string name="invitation_title">%s Invitation</string>
+    <string name="invitation_message">Hey, I found %s!, cool chatting application, come join me here.\nhttps://play.google.com/store/apps/details?id=%s</string>
+    <string name="download_message">Download %s now</string>
+    <string name="slide_cancel">%s (Slide left to cancel)</string>
+    <string name="add_member_message">Are you sure you want to add %s in this group?</string>
+    <string name="remove_user_message">Are you sure you want to remove %s from this group?</string>
+    <string name="member_count">%d member(s)</string>
+    <string name="participants_count">Participants (%d)</string>
+    <string name="selected_count">%d selected</string>
+    <string name="group_participants_error">Unable to load all group members. Please refresh your users then check again.</string>
+
+
+    <string name="privacy_policy_html" translatable="false">
+
+        <![CDATA[
+"<!DOCTYPE html>\n"
+                "    <html>\n"
+                "\n"
+                "    <body>\n"
+                "    <h2>Privacy Policy</h2> <p>\n"
+                "                    Commodots built the UMCAA Connect app as\n"
+                "                    an Ad Supported app. This SERVICE is provided by\n"
+                "                    COmmodots for members and aailiates of UMCAA and is intended for\n"
+                "                    use as is.\n"
+                "                  </p> <p>\n"
+                "                    This page is used to inform members regarding\n"
+                "                    my policies with the collection, use, and\n"
+                "                    disclosure of Personal Information if anyone decided to use\n"
+                "                    my Service.\n"
+                "                  </p> <p>\n"
+                "                    If you choose to use my Service, then you agree\n"
+                "                    to the collection and use of information in relation to this\n"
+                "                    policy. The Personal Information that I collect is\n"
+                "                    used for providing and improving the Service.\n"
+                "                    I will not use or share your\n"
+                "                    information with anyone except as described in this Privacy\n"
+                "                    Policy.\n"
+                "                  </p> <p>\n"
+                "                    The terms used in this Privacy Policy have the same meanings\n"
+                "                    as in our Terms and Conditions, which is accessible at\n"
+                "                    UMCAA Connect unless otherwise defined in this Privacy\n"
+                "                    Policy.\n"
+                "                  </p> <p><strong>Information Collection and Use</strong></p> <p>\n"
+                "                    For a better experience, while using our Service,\n"
+                "                    I may require you to provide us with certain\n"
+                "                    personally identifiable information, including but not limited to Contacts in your Phonebook,Your Phone Number,Your Profile Picture. The\n"
+                "                    information that I request will be\n"
+                "                    securely saved on our secure Servers, we will never share these information without your permission.\n"
+                "                    <br>\n"
+                "                     your name, number, and your profile Picture will be available publicly to other users.\n"
+                "                  </p> <p>\n"
+                "                    The app does use third party services that may collect\n"
+                "                    information used to identify you.\n"
+                "                  </p> <div><p>\n"
+                "                      Link to privacy policy of third party service providers\n"
+                "                      used by the app\n"
+                "                    </p> <ul><li><a href=\"https://www.google.com/policies/privacy/\" target=\"_blank\">Google Play Services</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> <p><strong>Log Data</strong></p> <p>\n"
+                "                    I want to inform you that whenever\n"
+                "                    you use my Service, in a case of an error in the\n"
+                "                    app I collect data and information (through third\n"
+                "                    party products) on your phone called Log Data. This Log Data\n"
+                "                    may include information such as your device Internet\n"
+                "                    Protocol (“IP”) address, device name, operating system\n"
+                "                    version, the configuration of the app when utilizing\n"
+                "                    my Service, the time and date of your use of the\n"
+                "                    Service, and other statistics.\n"
+                "                  </p> \n"
+                "                  <p><strong>Permissions we request</strong></p> <p>\n"
+                "                    <ul>\n"
+                "                      <li>Contacts: to be able to communicate with your Friends that are in your Contacts</li>\n"
+                "                      <li>Camera: to be able to Take Pictures/Videos and to be able to make Video Calls.</li>\n"
+                "                      <li>Microphpone: to be able to send Voice Messages and also to be able to make Voice/Video Calls.</li>\n"
+                "                      <li>Storage: to save the Sent/Received Files in your Device</li>\n"
+                "                    </ul>\n"
+                "                  </p>\n"
+                "\n"
+                "                  <p><strong>Cookies</strong></p> <p>\n"
+                "                    Cookies are files with a small amount of data that are\n"
+                "                    commonly used as anonymous unique identifiers. These are\n"
+                "                    sent to your browser from the websites that you visit and\n"
+                "                    are stored on your device's internal memory.\n"
+                "                  </p> <p>\n"
+                "                    This Service does not use these “cookies” explicitly.\n"
+                "                    However, the app may use third party code and libraries that\n"
+                "                    use “cookies” to collect information and improve their\n"
+                "                    services. You have the option to either accept or refuse\n"
+                "                    these cookies and know when a cookie is being sent to your\n"
+                "                    device. If you choose to refuse our cookies, you may not be\n"
+                "                    able to use some portions of this Service.\n"
+                "                  </p> <p><strong>Service Providers</strong></p> <p>\n"
+                "                    I may employ third-party companies\n"
+                "                    and individuals due to the following reasons:\n"
+                "                  </p> <ul><li>To facilitate our Service;</li> <li>To provide the Service on our behalf;</li> <li>To perform Service-related services; or</li> <li>To assist us in analyzing how our Service is used.</li></ul> <p>\n"
+                "                    I want to inform users of this\n"
+                "                    Service that these third parties have access to your\n"
+                "                    Personal Information. The reason is to perform the tasks\n"
+                "                    assigned to them on our behalf. However, they are obligated\n"
+                "                    not to disclose or use the information for any other\n"
+                "                    purpose.\n"
+                "                  </p> <p><strong>Security</strong></p> <p>\n"
+                "                    I value your trust in providing us\n"
+                "                    your Personal Information, thus we are striving to use\n"
+                "                    commercially acceptable means of protecting it. But remember\n"
+                "                    that no method of transmission over the internet, or method\n"
+                "                    of electronic storage is 100% secure and reliable, and\n"
+                "                    I cannot guarantee its absolute security.\n"
+                "                  </p> <p><strong>Links to Other Sites</strong></p> <p>\n"
+                "                    This Service may contain links to other sites. If you click\n"
+                "                    on a third-party link, you will be directed to that site.\n"
+                "                    Note that these external sites are not operated by\n"
+                "                    me. Therefore, I strongly advise you to\n"
+                "                    review the Privacy Policy of these websites.\n"
+                "                    I have no control over and assume no\n"
+                "                    responsibility for the content, privacy policies, or\n"
+                "                    practices of any third-party sites or services.\n"
+                "                  </p> <p><strong>Children’s Privacy</strong></p> <p>\n"
+                "                    These Services do not address anyone under the age of 13.\n"
+                "                    I do not knowingly collect personally\n"
+                "                    identifiable information from children under 13. In the case\n"
+                "                    I discover that a child under 13 has provided\n"
+                "                    me with personal information,\n"
+                "                    I immediately delete this from our servers. If you\n"
+                "                    are a parent or guardian and you are aware that your child\n"
+                "                    has provided us with personal information, please contact\n"
+                "                    me so that I will be able to do\n"
+                "                    necessary actions.\n"
+                "                  </p> <p><strong>Changes to This Privacy Policy</strong></p> <p>\n"
+                "                    I may update our Privacy Policy from\n"
+                "                    time to time. Thus, you are advised to review this page\n"
+                "                    periodically for any changes. I will\n"
+                "                    notify you of any changes by posting the new Privacy Policy\n"
+                "                    on this page. These changes are effective immediately after\n"
+                "                    they are posted on this page.\n"
+                "                  </p> <p><strong>Contact Us</strong></p> <p>\n"
+                "                    If you have any questions or suggestions about\n"
+                "                    my Privacy Policy, do not hesitate to contact\n"
+                "                    me at apps@commodots.com\n"
+                "                  </p> \n"
+                "    </body>\n"
+                "    </html>\n"
+]]>
+    </string>
+    <string name="todo" translatable="false">TODO</string>
+
+</resources>
